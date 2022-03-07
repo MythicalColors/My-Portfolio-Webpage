@@ -1,0 +1,13 @@
+body{
+    background-color:paleturquoise;
+    text-align: center;
+}
+h1{
+    color:indianred;
+    font-family:Lucida;
+}
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 20%;
+}
